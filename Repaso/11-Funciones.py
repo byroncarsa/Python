@@ -148,10 +148,20 @@
 
 
 # RECURSIVIDAD
-def fib(n):
-    if n < 1:
-        return None
-    if n < 3:
-        return 1
-    return fib(n - 1) + fib(n - 2)
-print(fib(10)) # 55
+# def fib(n):
+#     if n < 1:
+#         return None
+#     if n < 3:
+#         return 1
+#     return fib(n - 1) + fib(n - 2)
+# print(fib(10)) # 55
+
+
+# LABORATORIO 1
+# LABORATORIO 2
+# LABORATORIO 3
+# LABORATORIO 4
+# LABORATORIO 5
+
+
+

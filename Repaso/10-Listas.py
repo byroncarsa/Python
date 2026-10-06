@@ -108,6 +108,13 @@
 
 
 # OPERADORES IN Y NOT IN
-lista = [1, 4, 7, 9] 
-print(4 in lista) # Verificar si un elemnto esta en la lista
-print(3 not in lista) # Verificar si un elemnto no esta en la lista
+# lista = [1, 4, 7, 9] 
+# print(4 in lista) # Verificar si un elemnto esta en la lista
+# print(3 not in lista) # Verificar si un elemnto no esta en la lista
+
+
+# LABORATORIO 1
+# LABORATORIO 2
+# LABORATORIO 3
+
+
